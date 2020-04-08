@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 100vw;
+    height: 100vh;
+    border-spacing: 10px 3vh;
+    table-layout: fixed;
+}
+
+.row1{
+    border-spacing: 10px 0;
+    background-color: rgb(253, 191, 110);
+    height: 10vh;
+}
+
+.row2{
+    background-color: rgb(62, 247, 123);
+    height: 35vh;
+}
+
+.row3{
+    background-color: rgb(140, 237, 240);
+    height: 20vh;
+}
+
+.row4{
+    background-color: rgb(189, 185, 183);
+    height: 15vh;
+}
